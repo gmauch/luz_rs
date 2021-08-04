@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Application input and output folders
+input/
+output/
+
+# Pycharm configs
+.idea
